@@ -11,5 +11,7 @@ This was created by reverse engineering Stripe's swift package for Apple Pay, so
 
 ### Helpful Documentation
 [Instructions to set up your Apple Pay merchant account (apple)](https://register.apple.com/resources/messages/msp-api-tutorial/applepay)
+
 [Adding apple pay certs to your Stripe Account (stripe)](https://support.stripe.com/questions/enable-apple-pay-on-your-stripe-account)
+
 [Sending test Apple Pay requests (apple)](https://register.apple.com/resources/messages/msp-api-tutorial/applepay#exercise-send-an-apple-pay-requestbasic-functionality)
