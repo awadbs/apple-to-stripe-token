@@ -9,9 +9,7 @@ This was created by reverse engineering Stripe's swift package for Apple Pay, so
 
 **converter.py** contains all the code you'd need.
 
-### Necessary Documentation
-[Apple: Instructions to set up your Apple Pay merchant account](https://register.apple.com/resources/messages/msp-api-tutorial/applepay)
-
-[Apple: Sending test Apple Pay requests](https://register.apple.com/resources/messages/msp-api-tutorial/applepay#exercise-send-an-apple-pay-requestbasic-functionality)
-
-[Stripe: Adding apple pay certs to your Stripe Account](https://support.stripe.com/questions/enable-apple-pay-on-your-stripe-account)
+### Helpful Documentation
+[Instructions to set up your Apple Pay merchant account (apple)](https://register.apple.com/resources/messages/msp-api-tutorial/applepay)
+[Adding apple pay certs to your Stripe Account (stripe)](https://support.stripe.com/questions/enable-apple-pay-on-your-stripe-account)
+[Sending test Apple Pay requests (apple)](https://register.apple.com/resources/messages/msp-api-tutorial/applepay#exercise-send-an-apple-pay-requestbasic-functionality)
